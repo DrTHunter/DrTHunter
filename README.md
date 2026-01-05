@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 About Me
-Hi, I’m Trent Hunter — a U.S. Army veteran (former combat medic) and former Supervisory Management Analyst at the Department of Veterans Affairs, where I oversaw Specialty Medicine at a major U.S. hospital. After burning out on 65+ hour weeks, I rebuilt my life around self-taught coding, entrepreneurship, and systems design—with a long-term focus on building things that actually last 
+Hi, I’m Trent Hunter — a U.S. Army Veteran (former combat medic) and former Supervisory Management Analyst at the Department of Veterans Affairs, where I oversaw Specialty Medicine at a major U.S. hospital. After burning out on 65+ hour weeks, I rebuilt my life around self-taught coding, entrepreneurship, and systems design—with a long-term focus on building things that actually last 
 
 🔭 I’m currently working on: modular, secure web systems and AI-adjacent tooling (local-first, privacy-conscious, built to compound over time) 
 
