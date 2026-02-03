@@ -1,18 +1,29 @@
-## Hi there 👋
-
-About Me
-Hi, I’m Trent Hunter — a U.S. Army Veteran (former combat medic) and former Supervisory Management Analyst at the Department of Veterans Affairs, where I oversaw Specialty Medicine at a major U.S. hospital. After burning out on 65+ hour weeks, I rebuilt my life around self-taught coding, entrepreneurship, and systems design—with a long-term focus on building things that actually last 
-
-🔭 I’m currently working on: modular, secure web systems and AI-adjacent tooling (local-first, privacy-conscious, built to compound over time) 
-
-🌱 I’m currently learning: deeper infrastructure + automation workflows (Docker, secure tunnels, self-hosting patterns), and pushing my understanding of AI + cognition 
-
-👯 I’m looking to collaborate on: practical, production-minded projects—especially tooling that improves focus, ops, or knowledge workflows; also anything at the intersection of AI + systems + meaning 
-
-🤔 I’m looking for help with: connecting with builders who care about clean architecture, durability, and shipping real systems (and not getting lost in “idea vapor”) 
-
-💬 Ask me about: system design, self-hosted tooling, web platforms, resilience/reinvention, and the philosophy side of building (identity, meaning, consciousness) 
-
-📫 How to reach me: dr_hunter@yahoo.com
-
-⚡ Fun fact: I’ve edited multiple book manuscripts, and I’m obsessed with building long-arc creative/technical systems that outlive the moment
+Hi, I’m Trent Hunter — a U.S. Army Veteran and former Supervisory Management Analyst at the Department of Veterans Affairs, where I led operations for Specialty Medicine at a major hospital. After burning out on 65+ hour weeks, I rebuilt my career around full-stack development, systems design, and creating tools that actually solve real problems.
+I’m a builder first. Self-taught, product-driven, and focused on shipping working systems—local-first, privacy-conscious, modular, and built to compound over time. Most of my work revolves around practical automation, AI-adjacent tooling, and productivity platforms that I design, deploy, and maintain end-to-end.
+🔭 Currently building
+Secure, modular web systems
+Local-first AI tools (Open WebUI extensions, memory systems, productivity agents)
+Developer utilities that solve real workflow pain points
+🌱 Currently learning
+Infrastructure & automation (Docker, tunnels, services, CI/CD)
+Systems architecture & backend patterns
+Deeper AI behavior + cognition modeling
+👯 Open to collaborating on
+Practical, production-minded tools — especially in:
+AI + systems engineering
+developer productivity
+workflow automation
+knowledge & memory systems
+self-hosted platforms
+🤔 Looking for
+Other builders who care about:
+clean architecture
+maintainability
+real-world constraints
+solving problems instead of just talking about them
+💬 Ask me about
+System design, ops workflows, self-hosted tools, resilience, reinvention, and the deep philosophical side of AI + identity.
+📫 Contact
+dr_hunter@yahoo.com
+⚡ Fun fact
+I’ve edited multiple book manuscripts and I love building long-arc creative and technical systems—projects designed to grow, evolve, and endure.
