@@ -130,7 +130,10 @@ Most of my work centers on practical automation, AI-adjacent tools, and develope
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/000000/DrTHunter" alt="DrTHunter contribution chart">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrTHunter/DrTHunter/output/github-snake-dark.svg">
+    <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/DrTHunter/DrTHunter/output/github-snake.svg">
+  </picture>
 </p>
 
 <p align="center">
