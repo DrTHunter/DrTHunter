@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=900&color=000000&background=FFFFFF&center=false&vCenter=true&multiline=true&repeat=true&width=980&height=115&lines=%5B+DrTHunter%40fsociety+~+%5D%24+whoami;Hello+friend.+That%27s+a+lame+way+to+put+it.+Maybe+I+should+give+you+a+name...;%5B+DrTHunter%40fsociety+~+%5D%24+sudo+init+destroy_evilcorp+--target%3Dall" alt="DrTHunter typing banner">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DrTHunter&label=Profile+views&color=000000&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/DrTHunter?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=000000" alt="GitHub followers">
+</p>
+
 ```
 [ DrTHunter@fsociety ~ ]$ cat about_me.txt
 ```
@@ -39,6 +44,31 @@ Most of my work centers on practical automation, AI-adjacent tools, and develope
 * 🌱 Infrastructure & automation (Docker, tunnels, services, CI/CD)
 * 🌱 Systems architecture & backend patterns
 * 🌱 AI behavior modeling + cognitive tooling
+
+---
+
+```
+[ DrTHunter@fsociety ~ ]$ ls ~/tech_stack
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,fastapi,docker,supabase,vscode,linux,ubuntu,git,github&perline=13" alt="Python, TypeScript, JavaScript, HTML, CSS, FastAPI, Docker, Supabase, VS Code, Linux, Ubuntu, Git, GitHub">
+</p>
+
+---
+
+```
+[ DrTHunter@fsociety ~ ]$ ls ~/projects/featured
+```
+
+| Project | What it is |
+|---|---|
+| [SoulScript-Engine](https://github.com/DrTHunter/SoulScript-Engine) | Framework for building AI identities that persist, evolve, and stay aligned, using compartmentalized memory, RAG prompt architectures, and persona encoding. |
+| [OrionForge](https://github.com/DrTHunter/OrionForge-Modular-AI-Identity-Ecosystem) | Web-based ecosystem for AI identities: modular UI, a cloud portal for running your own agents, and a marketplace for tools, mods, and personas. |
+| [openwebui-enhanced-memory-tool](https://github.com/DrTHunter/openwebui-enhanced-memory-tool) | Memory tool for Open WebUI with categories and tags, batch operations, duplicate detection, and content-based search. |
+| [openwebui-smtp-email-service](https://github.com/DrTHunter/openwebui-smtp-email-service) | Lightweight FastAPI SMTP service that lets Open WebUI agents send authenticated email. Docker-ready. |
+| [AI-bounded-loop-](https://github.com/DrTHunter/AI-bounded-loop-) | Bounded local LLM loop engine in Python with hard cutoffs, tool routing, and stable state journaling. |
+| [debt-payoff-app](https://github.com/DrTHunter/debt-payoff-app) | Debt snowball and avalanche calculator (TypeScript + Supabase) with progress tracking and Excel export. |
 
 ---
 
@@ -98,3 +128,13 @@ Most of my work centers on practical automation, AI-adjacent tools, and develope
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DrTHunter&hide_border=true" height="165" alt="DrTHunter GitHub streak">
 </p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/000000/DrTHunter" alt="DrTHunter contribution chart">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=1200&color=000000&background=FFFFFF&center=false&vCenter=true&multiline=true&repeat=true&width=980&height=70&lines=%5B+DrTHunter%40fsociety+~+%5D%24+exit;Thanks+for+stopping+by.+Let%27s+build+something+that+lasts." alt="Closing typing banner">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%" alt="">
