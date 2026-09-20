@@ -69,6 +69,10 @@ Most of my work centers on practical automation, AI-adjacent tools, and develope
 | [openwebui-smtp-email-service](https://github.com/DrTHunter/openwebui-smtp-email-service) | Lightweight FastAPI SMTP service that lets Open WebUI agents send authenticated email. Docker-ready. |
 | [AI-bounded-loop-](https://github.com/DrTHunter/AI-bounded-loop-) | Bounded local LLM loop engine in Python with hard cutoffs, tool routing, and stable state journaling. |
 | [debt-payoff-app](https://github.com/DrTHunter/debt-payoff-app) | Debt snowball and avalanche calculator (TypeScript + Supabase) with progress tracking and Excel export. |
+| [stasis-intrusion-gateway](https://github.com/DrTHunter/stasis-intrusion-gateway) | Zero Trust-style intrusion-denial screen that simulates system analysis, session isolation, and access shutdown for unauthorized visitors. |
+| [AudioOasis](https://github.com/DrTHunter/AudioOasis) | Lightweight browser-based music app for deep work: build playlists and layer custom mixes, with no ads or algorithms. |
+
+[All repositories →](https://github.com/DrTHunter?tab=repositories)
 
 ---
 
