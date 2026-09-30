@@ -67,7 +67,7 @@ Most of my work centers on practical automation, AI-adjacent tools, and develope
 | [OrionForge](https://github.com/DrTHunter/OrionForge-Modular-AI-Identity-Ecosystem) | Web-based ecosystem for AI identities: modular UI, a cloud portal for running your own agents, and a marketplace for tools, mods, and personas. |
 | [openwebui-enhanced-memory-tool](https://github.com/DrTHunter/openwebui-enhanced-memory-tool) | Memory tool for Open WebUI with categories and tags, batch operations, duplicate detection, and content-based search. |
 | [openwebui-smtp-email-service](https://github.com/DrTHunter/openwebui-smtp-email-service) | Lightweight FastAPI SMTP service that lets Open WebUI agents send authenticated email. Docker-ready. |
-| [AI-bounded-loop-](https://github.com/DrTHunter/AI-bounded-loop-) | Bounded local LLM loop engine in Python with hard cutoffs, tool routing, and stable state journaling. |
+| [SoulScript-Loop](https://github.com/DrTHunter/SoulScript-Loop) | A continuously running inner loop for one AI persona: senses it can't author, a budget it can run out of, a persistent workbench, and guards that stop it when it stalls. Pairs with SoulScript-Engine. |
 | [debt-payoff-app](https://github.com/DrTHunter/debt-payoff-app) | Debt snowball and avalanche calculator (TypeScript + Supabase) with progress tracking and Excel export. |
 | [stasis-intrusion-gateway](https://github.com/DrTHunter/stasis-intrusion-gateway) | Zero Trust-style intrusion-denial screen that simulates system analysis, session isolation, and access shutdown for unauthorized visitors. |
 | [AudioOasis](https://github.com/DrTHunter/AudioOasis) | Lightweight browser-based music app for deep work: build playlists and layer custom mixes, with no ads or algorithms. |
