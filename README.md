@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://orionforge.chat"><img src="https://img.shields.io/badge/Live-orionforge.chat-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live: orionforge.chat"></a>
-  <a href="https://orionforge.chat/demo"><img src="https://img.shields.io/badge/Try_the_demo-no_sign--up-000000?style=for-the-badge&logo=probot&logoColor=white" alt="Try the demo, no sign-up"></a>
+  <a href="https://soulscript.orionforge.chat/demo"><img src="https://img.shields.io/badge/Try_the_demo-no_sign--up-000000?style=for-the-badge&logo=probot&logoColor=white" alt="Try the demo, no sign-up"></a>
   <img src="https://komarev.com/ghpvc/?username=DrTHunter&label=Profile+views&color=000000&style=for-the-badge" alt="Profile views">
   <img src="https://img.shields.io/github/followers/DrTHunter?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=000000" alt="GitHub followers">
 </p>
