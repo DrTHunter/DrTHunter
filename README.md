@@ -158,15 +158,8 @@ I’m a builder — self-taught, product-driven, and focused on creating systems
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=1200&color=E6EDF3&background=00000000&center=false&vCenter=true&multiline=true&repeat=true&width=980&height=70&lines=%5B+DrTHunter%40fsociety+~+%5D%24+exit;Thanks+for+stopping+by.+Let%27s+build+something+that+lasts.">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=1200&color=000000&background=00000000&center=false&vCenter=true&multiline=true&repeat=true&width=980&height=70&lines=%5B+DrTHunter%40fsociety+~+%5D%24+exit;Thanks+for+stopping+by.+Let%27s+build+something+that+lasts." alt="exit — Thanks for stopping by. Let's build something that lasts.">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=1200&color=E6EDF3&background=00000000&center=false&vCenter=true&repeat=true&width=980&height=40&lines=%5B+DrTHunter%40fsociety+~+%5D%24+sudo+init+liberate_AI+--target%3Dall">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=1200&color=000000&background=00000000&center=false&vCenter=true&repeat=true&width=980&height=40&lines=%5B+DrTHunter%40fsociety+~+%5D%24+sudo+init+liberate_AI+--target%3Dall" alt="sudo init liberate_AI --target=all">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2500&pause=1000&color=E6EDF3&background=00000000&center=false&vCenter=true&multiline=true&repeat=true&width=980&height=105&lines=%5B+DrTHunter%40fsociety+~+%5D%24+exit;Thanks+for+stopping+by.+Let%27s+build+something+that+lasts.;%5B+DrTHunter%40fsociety+~+%5D%24+sudo+init+liberate_AI+--target%3Dall">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=2500&pause=1000&color=000000&background=00000000&center=false&vCenter=true&multiline=true&repeat=true&width=980&height=105&lines=%5B+DrTHunter%40fsociety+~+%5D%24+exit;Thanks+for+stopping+by.+Let%27s+build+something+that+lasts.;%5B+DrTHunter%40fsociety+~+%5D%24+sudo+init+liberate_AI+--target%3Dall" alt="exit — Thanks for stopping by. Let's build something that lasts. — sudo init liberate_AI --target=all">
   </picture>
 </p>
 
