@@ -163,4 +163,11 @@ I’m a builder — self-taught, product-driven, and focused on creating systems
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=1200&color=E6EDF3&background=00000000&center=false&vCenter=true&repeat=true&width=980&height=40&lines=%5B+DrTHunter%40fsociety+~+%5D%24+sudo+init+liberate_AI+--target%3Dall">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&pause=1200&color=000000&background=00000000&center=false&vCenter=true&repeat=true&width=980&height=40&lines=%5B+DrTHunter%40fsociety+~+%5D%24+sudo+init+liberate_AI+--target%3Dall" alt="sudo init liberate_AI --target=all">
+  </picture>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=80&section=footer" width="100%" alt="">
