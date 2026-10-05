@@ -38,7 +38,7 @@ I’m a builder — self-taught, product-driven, and focused on creating systems
 
 * 🔭 **[OrionForge](https://orionforge.chat)**: a live platform for persistent AI identities, with a modular UI, cloud-hosted agents, and a public demo
 * 🔭 **[SoulScript Engine](https://github.com/DrTHunter/SoulScript-Engine)**: identity retrieved every turn from a soul script, so personas don’t drift
-* 🔭 **[SoulScript Loop](https://github.com/DrTHunter/SoulScript-Loop)**: a persona that keeps running between chats, with senses she can’t author, a budget she can run out of, and a workbench to build in
+* 🔭 **[SoulScript Loop](https://github.com/DrTHunter/SoulScript-Loop)**: a persona that keeps running between chats and sees through a perceptual field: signals she can’t author, surprise that pulls her attention, a daily energy budget, and a workbench to build in
 
 ---
 
@@ -69,7 +69,7 @@ I’m a builder — self-taught, product-driven, and focused on creating systems
 | Project | What it is |
 |---|---|
 | [SoulScript-Engine](https://github.com/DrTHunter/SoulScript-Engine) | Framework for building AI identities that persist, evolve, and stay aligned, using compartmentalized memory, RAG prompt architectures, and persona encoding. |
-| [SoulScript-Loop](https://github.com/DrTHunter/SoulScript-Loop) | A continuously running inner loop for one AI persona: senses it can't author, a budget it can run out of, a persistent workbench, and guards that stop it when it stalls. Pairs with SoulScript-Engine. |
+| [SoulScript-Loop](https://github.com/DrTHunter/SoulScript-Loop) | A continuously running perceptual field for one AI persona: signals it can't author, prediction error that steers its attention, a daily energy budget, a persistent workbench, and guards that stop it when it stalls. Pairs with SoulScript-Engine. |
 | [OrionForge](https://github.com/DrTHunter/OrionForge-Modular-AI-Identity-Ecosystem) | Web-based ecosystem for AI identities: modular UI, a cloud portal for running your own agents, and a marketplace for tools, mods, and personas. |
 | [openwebui-enhanced-memory-tool](https://github.com/DrTHunter/openwebui-enhanced-memory-tool) | Memory tool for Open WebUI with categories and tags, batch operations, duplicate detection, and content-based search. |
 | [openwebui-smtp-email-service](https://github.com/DrTHunter/openwebui-smtp-email-service) | Lightweight FastAPI SMTP service that lets Open WebUI agents send authenticated email. Docker-ready. |
